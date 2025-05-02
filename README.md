@@ -1,4 +1,6 @@
-![Ibnu Fajar](img/ibnu-banner-simple.png)
+<div align="center">
+  <img alt="Ibnu Fajar" src="img/ibnu-banner-simple.png" />
+</div>
 
 <h1 align="center">Hello!, I'm Ibnu Fajar</h1>
 <h3 align="center">Just a person interested in coding, especially in backend development.</h3>
