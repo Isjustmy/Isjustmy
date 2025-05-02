@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend KostKita.id Project**
 
-- 💬 Ask me about **Vue.js, Laravel**
+- 💬 Ask me about **PHP, Laravel, Backend things**
 
 - 📫 How to reach me **ifpersona205@gmail.com**
 
