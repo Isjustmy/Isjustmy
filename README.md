@@ -1,14 +1,13 @@
 <h1 align="center">Hi!, I'm Ibnu Fajar known as IF</h1>
 <h3 align="center">Just a normal person interested in coding</h3>
 
-- 🔭 I’m currently working on **Backend File Sharing**
+- 🔭 I’m currently working on **Backend KostKita.id Project**
 
 - 💬 Ask me about **Vue.js, Laravel**
 
 - 📫 How to reach me **ifpersona205@gmail.com**
 
-- ⚡ Fun fact **i'm kpop fans**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/if_insta205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="if_insta205" height="30" width="40" /></a>
