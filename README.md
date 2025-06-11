@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello!, I'm Ibnu Fajar</h1>
-<h3 align="center">Just a person interested in coding, especially in backend development.</h3>
+<h3 align="center">A person who loves programming and exploring technology.</h3>
 <br>
 
 - 🔭 I’m currently working on **Backend KostKita.id Project**
