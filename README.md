@@ -6,7 +6,7 @@
 <h3 align="center">A person who loves programming (especially in backend) and exploring technology.</h3>
 <br>
 
-- 🔭 I’m currently working on **Backend KostKita.id Project**
+- 🔭 I’m currently working on **ODS Mandiri Backend System Ministry of Cooperatives of the Republic of Indonesia**
 
 - 💬 Ask me about **PHP, Laravel, Backend things**
 
